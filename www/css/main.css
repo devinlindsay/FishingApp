@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#home, #rapala, #cotton
+{
+	margin-top: 0px;
+	background-image: url(file:///D|/Documents/INTERACTIVE%20MEDIA%20SPECIALIST/6001%20Advanced%20Web%20Technologies/Week%2011/fishing_app/images/bluestripe.jpg);
+}
+
+#rapala h4
+{
+	margin-left: 22px;
+	margin-top:0;
+}
+
+#bass
+{
+	display:block;
+	margin: 0 auto;
+}
